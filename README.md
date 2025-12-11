@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/PTK%20Membership%20Certificate.jpg"
+       alt="PTK Membership Certificate"
+       width="350"
+       style="border-radius: 6px;" />
+</p>
+
 ### 🌟 Phi Theta Kappa (PTK) – International Honor Society
 - Academic excellence & scholarship  
 - Community leadership & service  
