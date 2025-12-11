@@ -20,3 +20,17 @@ Prepares learners for the workplace through professionalism, adaptability, accou
 ---
 
 Each component helps participants become more effective thinkers, communicators, and professionals — giving them a strong competitive advantage.
+
+---
+
+## ⚠️ Disclaimer
+
+All Phi Theta Kappa (PTK) memberships, honors, and digital badges displayed in this repository — including Competitive Edge, Employment Edge, and Advocacy Edge credentials — are **official achievements earned personally by me**.  
+
+These credentials are verified through PTK’s official systems and are **not transferable, reproducible, or permitted for reuse by anyone other than the rightful recipient**.
+
+Any attempt to copy, replicate, forge, or falsely present these badges or recognitions as your own is a violation of academic integrity and may constitute misconduct under PTK and institutional policies.
+
+If you have questions about PTK credentials or how to earn them legitimately, please visit the official PTK website: https://www.ptk.org.
+
+---
