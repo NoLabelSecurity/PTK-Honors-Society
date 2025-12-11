@@ -1,5 +1,21 @@
 ### **Employment Edge**
 
+<p align="center">
+  <!-- ACHIEVE -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Achieve/Phi_Theta_Kappa_Career_Excellence_ACHIEVE.png"
+       width="150" alt="Achieve Badge" />
+  <!-- ACT -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Act/Phi_Theta_Kappa_Career_Excellence_ACT.png"
+       width="150" alt="Act Badge" />
+  <!-- ADVANCE -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Advance/Phi_Theta_Kappa_Career_Excellence_ADVANCE.png"
+       width="150" alt="Advance Badge" />
+  <!-- AIM -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Aim/Phi_Theta_Kappa_Career_Excellence_AIM%20BADGE.png"
+       width="150" alt="Aim Badge" />
+</p>
+
+
 **AIM**  
 Set your career goals, assess your strengths and skill gaps, explore internship options, and begin building your professional foundation.
 
