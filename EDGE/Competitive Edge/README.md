@@ -1,5 +1,23 @@
 ## 🧠 PTK Competitive Edge Overview
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Collaborate/Phi_Theta_Kappa_Competitive_Excellence_Collaborate.png"
+       width="150" alt="Collaborate Badge" />
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Connect/Phi_Theta_Kappa_Competitive_Excellence_Connect.png"
+       width="150" alt="Connect Badge" />    
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Grow/Phi_Theta_Kappa_Competitive_Excellence_Grow.png"
+       width="150" alt="Grow Badge" />  
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Perform/Phi_Theta_Kappa_Competitive_Excellence_Perform.png"
+       width="150" alt="Perform Badge" />   
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Think/Phi_Theta_Kappa_Competitive_Excellence_Think_Badge.png"
+       width="150" alt="Think Badge" />
+</p>
+
+
+
+
+
 The **PTK Competitive Edge** program is designed to build the soft skills and professional strengths that colleges, employers, and leadership roles look for.
 
 ### **1. THINK**
