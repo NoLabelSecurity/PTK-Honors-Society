@@ -1,15 +1,24 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/PTK%20Membership%20Certificate.jpg"
-       alt="PTK Membership Certificate"
-       width="350"
-       style="border-radius: 6px;" />
-</p>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
 
 ### 🌟 Phi Theta Kappa (PTK) – International Honor Society
 - Academic excellence & scholarship  
 - Community leadership & service  
 - Competitive Edge & Employment Edge achievement tracks  
 - Digital badges earned through PTK EDGE programs (displayed below)
+
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/PTK%20Membership%20Certificate.jpg"
+           alt="PTK Membership Certificate"
+           width="300"
+           style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
