@@ -10,7 +10,7 @@
 
     </td>
     <td style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/PTK%20Membership%20Certificate.jpg"
+      <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/Docs/Certificates/PTK%20Membership%20Certificate.jpg"
            alt="PTK Membership Certificate"
            width="300"
            style="border-radius: 8px;" />
