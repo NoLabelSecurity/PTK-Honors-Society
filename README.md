@@ -77,3 +77,18 @@ Below are a selection of my verified digital credentials earned through structur
 </p>
 
 ---
+
+### Research Edge
+<p align="center">
+  <!-- Action -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Research%20Edge/Action/Phi_Theta_Kappa_Research_Excellence_Action.png"
+       width="150" alt="Research Action Badge" />
+  <!-- Impact -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Research%20Edge/Impact/Phi_Theta_Kappa_Research_Excellence_Impact.png"
+       width="150" alt="Research Impact Badge" />
+  <!-- Investigation -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Research%20Edge/Investigation/Phi_Theta_Kappa_Research_Excellence_Investigation.png"
+       width="150" alt="Research Investigation Badge" />
+</p>
+
+---
