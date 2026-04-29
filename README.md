@@ -72,7 +72,7 @@ Below are a selection of my verified digital credentials earned through structur
   <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Intentional/Phi_Theta_Kappa_Advocacy_Edge_Be_Intentional.png"
        width="150" alt="Be Intentional Badge" />
   <!-- Be the Change -->
-  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Intentional/Phi_Theta_Kappa_Advocacy_Edge_Be_The_Change.png"
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20the%20Change/Phi_Theta_Kappa_Advocacy_Edge_Be_The_Change.png"
        width="150" alt="Be the Change Badge" />
 </p>
 
